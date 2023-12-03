@@ -7,7 +7,7 @@ valuable resource to see where I started.
 
 ## General Notes
 
-- `datasets` consists of all formal write-up pertaining to the project.
+- `datasets` consists of the datasets used.
    - `raw.xlsx` is the initial dataset that was given.
    - `final.xlsx` is what the dataset was condensed into throughout the project. This excel spreadsheet is most likely
    an unorganized, jumbled mess.
